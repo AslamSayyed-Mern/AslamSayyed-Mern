@@ -5,13 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aslamsayyed-mern" alt="aslamsayyed-mern" /></a> </p>
 
+- 🔭 I’m currently working on **Learning Full Stack Development**
+
 - 🌱 I’m currently learning **React.Js,MySQL,MongoDB,Node.Js,Express.Js**
+
+- 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
 - 📫 How to reach me **sayedaslam4321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aslam sayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslam sayyed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@aslam-sayyed-mernstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@aslam-sayyed-mernstack" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sayedaslam4321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sayedaslam4321" height="30" width="40" /></a>
 </p>
 
